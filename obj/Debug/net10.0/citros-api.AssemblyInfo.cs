@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("citros-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84b73711275b0e8a947d26a7b7b93ed1db3b0857")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e943ea55631afe2f7b885a523e8ee28be9669f")]
 [assembly: System.Reflection.AssemblyProductAttribute("citros-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("citros-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
